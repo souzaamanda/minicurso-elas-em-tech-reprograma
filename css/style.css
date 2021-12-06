@@ -1,0 +1,158 @@
+*body{
+    font-size: 12px;
+}
+
+.caixa-banner {
+    background-image: url(../img/baner1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 85vh;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.titulo1 {
+    font-size: 2rem;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitulo1 {
+    font-size: 28px;
+    text-shadow: 2px 2px rgb(66, 49, 7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link-sobre {
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #5f380b;
+    font-weight: bold;
+    background-color: rgba(253, 249, 253, 0.835);
+    padding: 8px 20px ;
+    border-radius: 15px;
+}
+
+.link-sobre:hover{
+    background-color:#5f380b;
+    color: white;
+    font-size:20px ;
+}
+
+.titulo-sobre{
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: #5f380b;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.caixa-sobre {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lado1 {
+    width: 50%;
+    justify-content: space-between;
+}
+
+.saudacao{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+.link-telegram {
+    text-decoration: none;
+    font-size: 18px ;
+    text-transform: uppercase;
+    color: white;
+    background-color: #5f380bd7;
+    padding: 8px 20px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+
+.link-telegram:hover {
+    background-color: #b66b15d7;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size:20px ;
+}
+
+.lado2 {
+   width: 30%;
+   font-size: 20px;
+   justify-content: space-between;
+   align-items: center;
+   line-height: 1.5;
+}
+
+h3 {
+    font-family: sans-serif;
+    /* text-align: center; */
+    color: rgb(184, 99, 25);
+}
+
+li {
+    color: #5f380b;
+    font-weight: bold;
+}
+
+.caixa-links {
+    margin-top: 120px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    padding: 1rem; 
+}
+
+.caixa-links p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.links {
+    background-color:rgb(184, 99, 25);
+    width: 180px;
+    height: 180px;
+    text-align: center;
+    text-decoration: none;
+    color:rgb(238, 222, 153);
+    border-radius: 2rem;
+}
+
+.links:hover{
+    background-color:#5f380b;
+}
+
+.icone {
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+}
+
+.rodape {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color:white;
+    text-align: center;
+    background-color:#5f380b;
+    padding: 1rem;
+}
+

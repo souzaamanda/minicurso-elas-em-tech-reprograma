@@ -1,0 +1,53 @@
+@media screen and (max-width: 700px) {
+    .caixa-banner{
+        height: 100%;
+        background-position:right;
+        justify-content: flex-end;
+        width: 100%;
+    }
+
+    .filha{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+    .titulo1{
+        font-size: 28px;
+        margin-bottom: 170px;
+        text-align: left;
+    }
+    .subtitulo1,.link-sobre{
+        display: none;
+    }
+    
+    .titulo-sobre {
+        font-size: 20px;
+    }
+
+    .caixa-sobre {
+        flex-direction: column;
+    }
+    .lado1 {
+        width:100%
+    }
+
+    .link-telegram{
+        margin: auto;
+    }
+
+    h3{
+      height: 50px;
+      width: 300px;
+      text-align: center;
+      margin-top: 50px;
+      margin-bottom: 10px;
+    }
+
+    .caixa-links{
+        margin-top: 60px;
+    }
+
+    .links{
+        margin: 5px;
+    }
+}
