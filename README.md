@@ -1,4 +1,4 @@
-# Elas em Tech : Afrotalebtos {Repograma}
+# Elas em Tech : Afrotalentos {Repograma}
 Projeto criado durante o Minicurso  de 2 dias Elas em Tech: Afrotalentos  da {Reprograma} 
 
 ##
