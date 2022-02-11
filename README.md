@@ -8,5 +8,11 @@ Projeto criado durante o Minicurso  de 2 dias Elas em Tech: Afrotalentos  da {Re
 
 > E no backend programei o funcionamento de uma Calculadora Freelancer usando JS
 <div align="center">
+<img src="https://user-images.githubusercontent.com/80546584/153582944-8bd82b5d-236f-426e-b9eb-3f59f66fcffa.png" width="700px" />
+</div>
+
+##
+### *Certificado:*
+<div align="center">
 <img src="https://user-images.githubusercontent.com/80546584/147697955-ddfd59b5-bf3d-4266-b0bb-ed9188c93b90.png" width="700px" />
 </div>
